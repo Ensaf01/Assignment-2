@@ -1,0 +1,79 @@
+.nav-title{
+    display: flex;
+   justify-content: space-between;
+  
+}
+nav >ul{
+    display: flex;
+    margin-right: 600px;
+}
+nav li{
+    list-style: none;
+    font-size: 20px;
+    margin: 10px;
+}
+.orang{
+    color: orange;
+}
+.travel{
+    margin-right: 550px;
+    font-size: 40px;
+}
+img{
+    margin-left: 50px;
+}
+/* Explore your time */
+
+
+.Explore-Time{
+    width: 1200px;
+    height: 500px;
+    text-align: center;
+    color: rgb(245, 245, 239);
+  background-image: url('../Images/Group\ 13\ \(1\)\ \(1\).png');
+  
+}
+.title{
+    font-size: 60px;
+}
+.Explore-content{
+    padding: 60px ;
+}
+.content-of-explore{
+    /* margin-top: 100px; */
+    /* margin-bottom: 50px; */
+    width: 700px;
+    height: 52px;
+    text-align: center;
+    margin-left: 250px;
+}
+
+/* our section */
+#our-title{
+    font-size: 50px;
+}
+.our-content{
+    font-size: 18px;
+    color: rgb(136, 134, 131);
+}
+
+.our-section{
+   
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    /* gap: 10px; */
+}
+.our-section-content{
+    width: 500px;
+    height:466px ;
+    /* background-color: aqua; */
+}
+.bottom-color{
+    background-color: #ffa806;
+}
+.our-section-img{
+    margin-right: 300px;
+    height:466px ;
+    /* background-color: orange; */
+}
